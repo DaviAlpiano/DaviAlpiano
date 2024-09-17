@@ -33,15 +33,19 @@ I'm a passionate developer, always looking to learn and grow.
 ![Sinon](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)
 
 ## 📊 GitHub Stats:
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davialpiano&show_icons=true&theme=radical)<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davialpiano&layout=compact&theme=radical)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davialpiano&show_icons=true&theme=radical" alt="Davi GitHub stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davialpiano&layout=compact&theme=radical" alt="Davi top langs"/>
+</div>
 
-## Agile Methods
+## Group Methods
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 ## Design
 
@@ -53,7 +57,7 @@ I'm a passionate developer, always looking to learn and grow.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 📝 Projects i like most:
+## 📝 Favorite Projects:
 - [Project Futebol Championship](https://github.com/DaviAlpiano/Futebol_Championship): A web application designed to manage football tournaments, allowing users to create, manage, and track championships.
 - [Project Planets SW](https://github.com/DaviAlpiano/Planets_Star_Wars): An interactive app that explores the planets from the Star Wars universe, using data from the Star Wars API (SWAPI).
 
