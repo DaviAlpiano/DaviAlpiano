@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Davi+Alpiano!+:%29)](https://git.io/typing-svg)
 
+<br>
+<br>
+
 I'm a passionate developer, always looking to learn and grow.
 
 - 🌱 I’m currently learning **React** and **TypeScript**
@@ -87,3 +90,5 @@ I'm a passionate developer, always looking to learn and grow.
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{davialpiano}/count.svg" /></p> 
 <br>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=footer"/>
