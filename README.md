@@ -1,4 +1,6 @@
-### Hello, I'm Davi Alpiano! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Davi+Alpiano!+:%29)](https://git.io/typing-svg)
 
 I'm a passionate developer, always looking to learn and grow.
 
@@ -42,8 +44,9 @@ I'm a passionate developer, always looking to learn and grow.
 ## 📊 GitHub Stats:
 
 <div align="center">  
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=davialpiano&show_icons=true&theme=radical" alt="Davi GitHub stats" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davialpiano&layout=compact&theme=radical" alt="Davi top langs"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=davialpiano&show_icons=true&theme=tokyonight" alt="Davi GitHub stats" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davialpiano&layout=compact&theme=tokyonight" alt="Davi top langs"/>
+  <img height="400px" src="https://github-readme-activity-graph.vercel.app/graph?username=davialpiano&bg_color=0d1117&color=70a5fd&line=bcd6ff&point=0061ff&area=true&hide_border=true&area_color=70a5fd" alt="Davi top langs"/>
 </div>
 
 ## 🤜🤛 Group Methods
@@ -78,3 +81,9 @@ I'm a passionate developer, always looking to learn and grow.
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/davialpiano)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davialdsouza@gmail.com)
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{davialpiano}/count.svg" /></p> 
+<br>
+</div>
