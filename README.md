@@ -34,8 +34,8 @@ I'm a passionate developer, always looking to learn and grow.
 
 ## 📊 GitHub Stats:
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davialpiano&show_icons=true&theme=radical" alt="Davi GitHub stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davialpiano&layout=compact&theme=radical" alt="Davi top langs"/>
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=davialpiano&show_icons=true&theme=radical" alt="Davi GitHub stats" />
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davialpiano&layout=compact&theme=radical" alt="Davi top langs"/>
 </div>
 
 ## Group Methods
