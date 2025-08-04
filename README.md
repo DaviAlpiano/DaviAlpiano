@@ -85,10 +85,4 @@ I'm a passionate developer, always looking to learn and grow.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/davialpiano)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davialdsouza@gmail.com)
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{davialpiano}/count.svg" /></p> 
-<br>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=footer"/>
